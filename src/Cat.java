@@ -8,7 +8,8 @@ public class Cat {
 	//my change here
 	private static final int HEAD_DIMENSION = 100;
 	// eyes will be about 1/4 from top of head and 1/4 from left
-	private static final int EYE_Y = HEAD_DIMENSION/4;
+	//changed the EYE_Y to 6
+	private static final int EYE_Y = HEAD_DIMENSION/6;
 	private static final int EYE_X = HEAD_DIMENSION/4;
 	private static final int EYE_SEPARATION = HEAD_DIMENSION/3;
 	// pick eye dimensions
